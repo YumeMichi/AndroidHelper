@@ -6,7 +6,7 @@
 git clone --recursive https://github.com/YumeMichi/AndroidHelper.git
 ```
 
-## Manual update
+## Manually update
 ```
 git clone https://github.com/YumeMichi/AndroidHelper.git
 git submodule init
